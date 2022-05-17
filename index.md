@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Aula 101
+Este repositório foi criado para os códigos da AULA 101, do domínio da disciplina de AIB.
 
-You can use the [editor on GitHub](https://github.com/LarissaMdSilva/aula101aib.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Apresentação em Google Slides da Aula
+Para essa aula foi preparada uma apresentação na plataforma Google Slides, nesta está toda a informação nescessária para saber o que são esses códigos.
+[Apresentação](apresentacao.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Códigos da Apresentação
 
-### Markdown
+HTML:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Código | Link Funcional |
+| ------ | ------ |
+| Primeiro Código | [Abrir](primeirocodigo.html) |
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LarissaMdSilva/aula101aib.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
