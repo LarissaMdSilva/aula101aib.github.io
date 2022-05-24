@@ -19,7 +19,7 @@ CSS:
 
 | Código | Link Funcional |
 | ------ | ------ |
-| Primeiro Código | [Abrir](primeirocodigo.html) |
-| Segundo Código | [Abrir](segundocodigo.html) |
-| Terceiro Código | [Abrir](terceirocodigo.html) |
+| Primeiro Código | [Abrir](primeirocodigo(css).html) |
+| Segundo Código | [Abrir](segundocodigo(css).html) |
+| Terceiro Código | [Abrir](terceirocodigo(css).html) |
 
